@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/personal-website/static/css/main.9fc3ddd2.chunk.css",
+    "main.js": "/personal-website/static/js/main.4da4b543.chunk.js",
+    "main.js.map": "/personal-website/static/js/main.4da4b543.chunk.js.map",
+    "runtime-main.js": "/personal-website/static/js/runtime-main.9841e9a8.js",
+    "runtime-main.js.map": "/personal-website/static/js/runtime-main.9841e9a8.js.map",
+    "static/js/2.536c7500.chunk.js": "/personal-website/static/js/2.536c7500.chunk.js",
+    "static/js/2.536c7500.chunk.js.map": "/personal-website/static/js/2.536c7500.chunk.js.map",
+    "index.html": "/personal-website/index.html",
+    "precache-manifest.f66691115e3cec0b2e044a336c27c055.js": "/personal-website/precache-manifest.f66691115e3cec0b2e044a336c27c055.js",
+    "service-worker.js": "/personal-website/service-worker.js",
+    "static/css/main.9fc3ddd2.chunk.css.map": "/personal-website/static/css/main.9fc3ddd2.chunk.css.map",
+    "static/js/2.536c7500.chunk.js.LICENSE.txt": "/personal-website/static/js/2.536c7500.chunk.js.LICENSE.txt",
+    "static/media/binus.png": "/personal-website/static/media/binus.5beba95b.png",
+    "static/media/checkCircleBlue.svg": "/personal-website/static/media/checkCircleBlue.e3b98a7d.svg",
+    "static/media/checkCircleGrey.svg": "/personal-website/static/media/checkCircleGrey.b8ea6971.svg",
+    "static/media/chevron.svg": "/personal-website/static/media/chevron.c411f3e0.svg",
+    "static/media/freecodecamp.jpeg": "/personal-website/static/media/freecodecamp.4321549a.jpeg",
+    "static/media/goacademy.png": "/personal-website/static/media/goacademy.783d469d.png",
+    "static/media/google-digital-garage.svg": "/personal-website/static/media/google-digital-garage.8d473b47.svg",
+    "static/media/hacktiv8.png": "/personal-website/static/media/hacktiv8.ef44cf88.png",
+    "static/media/logo.svg": "/personal-website/static/media/logo.5d5d9eef.svg",
+    "static/media/profile.jpeg": "/personal-website/static/media/profile.f8bc6959.jpeg",
+    "static/media/sma3.png": "/personal-website/static/media/sma3.7c602c1b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9841e9a8.js",
+    "static/js/2.536c7500.chunk.js",
+    "static/css/main.9fc3ddd2.chunk.css",
+    "static/js/main.4da4b543.chunk.js"
+  ]
+}
